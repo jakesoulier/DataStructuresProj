@@ -4,20 +4,20 @@
 * Contact Information
 ## II. Queues
 * Introduction
-* Boolean Expressions
-* Multiple Conditions
+* Implementation
+* Deque
 * Example
 * Problem to Solve
 ## III. Linked Lists
 * Introduction
-* For Loops (Iterators)
-* Using Range with For Loops
-* While Loops
+* Nodes
+* Usage and advantages
+* Types of linked lists
 * Example
 * Problem to Solve
 ## IV. Trees
 * Introduction
-* Structure of a Python Function
-* Organizing Functions
+* Properties
+* Insert in Tree
 * Example
 * Problem to Solve

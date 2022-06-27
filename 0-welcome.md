@@ -1,5 +1,5 @@
 # Welcome to my Data Structures tutorial
-Through this data stucture tutorial, there will be three main topics that are taught, explained, with given examples that can be completed by the student.
+Through this data stucture tutorial, there will be three main topics that are taught, explained, and has given examples that can be completed by the student to better learn the topic.
 
 **The main three are:**
 * Queues

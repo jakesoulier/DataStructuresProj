@@ -7,8 +7,10 @@ There are three main topics that will be taught here.
 
 Taught by:
 **Jake Soulier**
+
 Class:
 **CSE 212**
+
 Email:
 **jakesoulier9@gmail.com**
 

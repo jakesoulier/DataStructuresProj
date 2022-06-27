@@ -1,4 +1,4 @@
-# Python Fundamentals Tutorial
+# Outline for project
 ## I. Welcome
 * Introduction
 * Contact Information

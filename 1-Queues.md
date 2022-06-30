@@ -59,8 +59,10 @@ result = q.enqueue(5)
 
 print(result)
 
-**Answer should output: ['name', 'date', 5]**
+**Answer should output:**
+    2
+    ['name', 'date', 5]
 
-[Link to solution()
+[Link to solution()]
 
 [Welcome Page Link](https://github.com/jakesoulier/DataStructuresProj/blob/main/0-welcome.md)

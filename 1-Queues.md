@@ -59,6 +59,6 @@ result = q.enqueue(5)
 
 print(result)
 
-Answer should output: ['name', 'date', 5]
+**Answer should output: ['name', 'date', 5]**
 
 [Welcome Page Link](https://github.com/jakesoulier/DataStructuresProj/blob/main/0-welcome.md)

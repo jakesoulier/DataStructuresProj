@@ -39,7 +39,7 @@ Write a class and call it Queue.  Have a method that creates an empty queue when
 
 **size** - returns length of queue
 
-### Add this code to your program:
+### Add this code to the bottom of your program to test it:
 q = Queue()
 
 q.enqueue('name')

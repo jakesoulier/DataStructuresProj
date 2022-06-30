@@ -12,10 +12,10 @@ Here is an image example of a queue:
 How do you use it in programming?  Specifically Python.
 
 | Enqueue  | Adding value to back of queue  |  queue.append(value) |  
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+|---|---|---|
+|   |   |   |
+|   |   |   |
+|   |   |   |
 
 ## Deque
 Deque, also called Double Ended Queue, is a type of Queue that allows of removal and insertion of elements can be done at the back or front of a collection of data.  This means it does not follow the first in first out rule.  Deque is often used more due to effeciency and preformance.  There are a couple of different main operations inside of Deque.  Here they are:

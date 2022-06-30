@@ -1,13 +1,13 @@
-## Queues
-### Introduction
+# Queues
+## Introduction
 
-# Implementation
+## Implementation
 
-# Deque
+## Deque
 
-# Example
+## Example
 
-# Problem to Solve
+## Problem to Solve
 
 
 

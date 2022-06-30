@@ -60,7 +60,9 @@ result = q.enqueue(5)
 print(result)
 
 **Answer should output:**
+
     2
+    
     ['name', 'date', 5]
 
 [Link to solution](https://github.com/jakesoulier/DataStructuresProj/blob/main/queue-solutions.py)

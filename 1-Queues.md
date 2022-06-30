@@ -39,13 +39,21 @@ size - returns length of queue
 
 Add this code to your program:
 q = Queue()
+
 q.enqueue('name')
+
 q.enqueue('date')
+
 q.enqueue('age')
+
 q.dequeue()
+
 q.ifEmpty()
+
 len = q.size()
+
 result = q.enqueue(5)
+
 print(result)
 
 Answer should output: ['name', 'date', 5]

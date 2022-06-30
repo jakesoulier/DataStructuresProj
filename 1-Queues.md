@@ -63,6 +63,6 @@ print(result)
     2
     ['name', 'date', 5]
 
-[Link to solution()]
+[Link to solution(/queue-solution.py)]
 
 [Welcome Page Link](https://github.com/jakesoulier/DataStructuresProj/blob/main/0-welcome.md)

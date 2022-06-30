@@ -10,7 +10,12 @@ Here is an image example of a queue:
 ![image](https://user-images.githubusercontent.com/97404870/176754026-09319f32-78d1-4a97-bc70-e36ee7c36acf.png)
 
 ## Deque
+Deque, also called Double Ended Queue, is a type of Queue that allows of removal and insertion of elements can be done at the back or front of a collection of data.  This means it does not follow the first in first out rule.  There are a couple of different main operations inside of Deque.  Here they are:
 
+insertFront()
+insertBack()
+deleteFront()
+deleteBack()
 ## Example
 
 ## Problem to Solve

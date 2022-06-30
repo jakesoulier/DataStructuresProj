@@ -27,7 +27,6 @@ Deque, also called Double Ended Queue, is a type of Queue that allows of removal
 **deleteFront()**
 
 **deleteBack()**
-## Example
 
 ## Problem to Solve
 Write a class and call it Queue.  Have a method that creates an empty queue when the class is called.  Inside the class make 5 different functions with these specific names:

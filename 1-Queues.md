@@ -14,9 +14,9 @@ Deque, also called Double Ended Queue, is a type of Queue that allows of removal
 
 **insertFront()**
 
-**insertBack()
+**insertBack()**
 
-**deleteFront()
+**deleteFront()**
 
 **deleteBack()**
 ## Example

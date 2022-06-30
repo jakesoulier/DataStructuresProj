@@ -32,10 +32,13 @@ Deque, also called Double Ended Queue, is a type of Queue that allows of removal
 ## Problem to Solve
 Write a class and call it Queue.  Have a method that creates an empty queue when the class is called.  Inside the class make 5 different functions with these specific names:
 
-enqueue - takes a value and adds it to the end of the queue
-dequeue - removes first value of queue
-ifEmpty - returns true if queue is empty and false if queue has values
-size - returns length of queue
+**enqueue** - takes a value and adds it to the end of the queue
+
+**dequeue** - removes first value of queue
+
+**ifEmpty** - returns true if queue is empty and false if queue has values
+
+**size** - returns length of queue
 
 Add this code to your program:
 q = Queue()

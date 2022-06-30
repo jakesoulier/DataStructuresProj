@@ -3,7 +3,7 @@
 What is a Queue?
 A queue is form of data structure in programming.  It is a group of data elements where only the first part of the data can be accessed.  The order is FIFO or first in, first out.
 ## Implementation
-Can you think of any real world examples of a queue?  Let me give you one to get you started.  When you go to the sandwhich shop, you have to get in line to wait for your order.  You join at the back of the line.  That's where data is inserted for a queue.  Who gets served first?  That would be the first person in line.  They are the first out.
+Can you think of any real world examples of a queue?  Let me give you one to get you started.  When you go to the sandwhich shop, you have to get in line to wait for your order.  You join at the back of the line.  That's where data is inserted for a queue.  Who gets served first?  That would be the first person in line.  When someone joins the line at the back, that is called enqueue.  When the person in the front is served and they leave the line, that is called dequeue.  They are the first out.
 
 Here is an image example of a queue:
 

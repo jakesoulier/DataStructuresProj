@@ -11,8 +11,8 @@ Here is an image example of a queue:
 
 How do you use it in programming?  Specifically Python.
 
-| Enqueue  | Adding value to back of queue  |  queue.append(value) |  
 |---|---|---|
+| Enqueue  | Adding value to back of queue  |  queue.append(value) |  
 | Dequeue  | Removing first value of queue  | queue.pop()  |
 
 

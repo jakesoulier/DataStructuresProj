@@ -30,8 +30,24 @@ Deque, also called Double Ended Queue, is a type of Queue that allows of removal
 ## Example
 
 ## Problem to Solve
+Write a class and call it Queue.  Have a method that creates an empty queue when the class is called.  Inside the class make 5 different functions with these specific names:
 
+enqueue - takes a value and adds it to the end of the queue
+dequeue - removes first value of queue
+ifEmpty - returns true if queue is empty and false if queue has values
+size - returns length of queue
 
+Add this code to your program:
+q = Queue()
+q.enqueue('name')
+q.enqueue('date')
+q.enqueue('age')
+q.dequeue()
+q.ifEmpty()
+len = q.size()
+result = q.enqueue(5)
+print(result)
 
+Answer should output: ['name', 'date', 5]
 
 [Welcome Page Link](https://github.com/jakesoulier/DataStructuresProj/blob/main/0-welcome.md)

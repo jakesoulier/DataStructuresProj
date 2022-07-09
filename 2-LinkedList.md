@@ -1,9 +1,11 @@
-# Queues
+# Linked List
 ## Introduction
-What is a Queue?
-A queue is form of data structure in programming.  It is a group of data elements where only the first part of the data can be accessed and new elements are adding at the back.  The order is FIFO or first in, first out.
+What is a Linked List?
+They also are refered to as one way list.  That is exactly what it is, an ordered group of elements that a connection to each element next in line.  Basically, it is an linear order set of elements that connnect each other with pointers.
 ## Implementation
-Can you think of any real world examples of a queue?  Let me give you one to get you started.  When you go to the sandwhich shop, you have to get in line to wait for your order.  You join at the back of the line.  That's where data is inserted for a queue.  Who gets served first?  That would be the first person in line.  When someone joins the line at the back, that is called enqueue.  When the person in the front is served and they leave the line, that is called dequeue.  They are the first out.  This is a fair and organized way and that is how it is used in a programming envirorment.
+Lets think of a real world example of linked list.  This always helps me understand principles and see the importance of them.  Maybe you will start to see example of linked list in your day-to-day life!  Here's a real life example:
+
+Imagine you are listening to your music library on shuffle.  Each time you skip or finish a song, a new, random song starts to play and is added to a linked list.  The last song is pointed to your new song.  If you listen for a while, you can go back 10 songs to one you were previously enjoying by pressing reverse and going back song by song.  Another reason this is a linked list is the new song is not added until you finish your current song, just like linked list.  They have data added to them at runtime.  
 
 Here is an image example of a queue:
 
@@ -17,52 +19,15 @@ How do you use it in programming?  Specifically Python.
 | Dequeue  | Removing first value of queue  | queue.pop()  |
 
 
-## Deque
-Deque, also called Double Ended Queue, is a type of Queue that allows of removal and insertion of elements can be done at the back or front of a collection of data.  This means it does not follow the first in first out rule.  Deque is often used more due to effeciency and preformance.  There are a couple of different main operations inside of Deque.  Here they are:
+## Effecientcy
+Linked list uses sequential access.  This is just a term that means data is accessed with some type of preset, ordered why of retrieving form.  Since linked list are accessed this way and are already linearly organized the big O effeciently is O(n).
 
-**insertFront()**
-
-**insertBack()**
-
-**deleteFront()**
-
-**deleteBack()**
 
 ## Problem to Solve
-Write a class and call it Queue.  Have a method that creates an empty queue when the class is called.  Inside the class make 5 different functions with these specific names:
 
-**enqueue** - takes a value and adds it to the end of the queue
-
-**dequeue** - removes first value of queue
-
-**ifEmpty** - returns true if queue is empty and false if queue has values
-
-**size** - returns length of queue
-
-### Add this code to the bottom of your program to test it:
-q = Queue()
-
-q.enqueue('name')
-
-q.enqueue('date')
-
-q.enqueue('age')
-
-q.dequeue()
-
-q.ifEmpty()
-
-len = q.size()
-
-result = q.enqueue(5)
-
-print(result)
 
 **Answer should output:**
 
-    2
-    
-    ['name', 'date', 5]
 
 [Link to solution](https://github.com/jakesoulier/DataStructuresProj/blob/main/queue-solutions.py)
 

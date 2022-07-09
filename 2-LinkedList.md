@@ -1,6 +1,7 @@
 # Linked List
 ## Introduction
 What is a Linked List?
+
 They also are refered to as one way list.  That is exactly what it is, an ordered group of elements that a connection to each element next in line.  Basically, it is an linear order set of elements that connnect each other with pointers.
 ## Implementation
 Lets think of a real world example of linked list.  This always helps me understand principles and see the importance of them.  Maybe you will start to see example of linked list in your day-to-day life!  Here's a real life example:

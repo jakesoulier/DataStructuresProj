@@ -10,7 +10,7 @@ Imagine you are listening to your music library on shuffle.  Each time you skip 
 
 Here is an image example of a linked list:
 
-![image](https://user-images.githubusercontent.com/97404870/176754026-09319f32-78d1-4a97-bc70-e36ee7c36acf.png)
+![image](https://user-images.githubusercontent.com/97404870/178087458-414074c7-791b-4057-b27e-dcc7448bc061.png)
 
 How do you use it in programming?  Specifically Python.
 

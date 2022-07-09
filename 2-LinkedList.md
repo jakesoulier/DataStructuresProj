@@ -25,9 +25,9 @@ Use this code to start and write answers:
 
 There are 3 main task you need to complete:
 
-### Insert data into head of list
-### Insert data into tail of list
-### Insert data into list after another list element
+* Insert data into head of list
+* Insert data into tail of list
+* Insert data into list after another list element
 
 **Answer should output:**
 

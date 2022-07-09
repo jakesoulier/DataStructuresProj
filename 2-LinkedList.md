@@ -23,7 +23,8 @@ Linked list uses sequential access.  This is just a term that means data is acce
 **Answer should output:**
 
 
-[Link to solution](https://github.com/jakesoulier/DataStructuresProj/blob/main/queue-solutions.py)
+[Link to solution](https://github.com/jakesoulier/DataStructuresProj/blob/main/linkedList-solution.py)
+
 
 [Welcome Page Link](https://github.com/jakesoulier/DataStructuresProj/blob/main/0-welcome.md)
 

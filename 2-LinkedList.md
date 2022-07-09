@@ -19,6 +19,9 @@ Linked list uses sequential access.  This is just a term that means data is acce
 
 ## Problem to Solve
 
+Use this code to start and write answers:
+
+[Link to starting code](https://github.com/jakesoulier/DataStructuresProj/blob/main/linkedLists.py)
 
 **Answer should output:**
 

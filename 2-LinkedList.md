@@ -2,13 +2,13 @@
 ## Introduction
 What is a Linked List?
 
-They are also called one way ordered list.  That is exactly what it is, an ordered group of elements that a connection to each element next in line.  Basically, it is an linear order set of elements that connnect each other with pointers.
+They are also called one way ordered list.  That is exactly what they are, an ordered group of elements that have a connection to each value next in line.  Basically, it is an linear order set of elements that connnect each other with pointers.
 ## Implementation
 Lets think of a real world example of linked list.  This always helps me understand principles and see the importance of them.  Maybe you will start to see example of linked list in your day-to-day life!  Here's a real life example:
 
-Imagine you are listening to your music library on shuffle.  Each time you skip or finish a song, a new, random song starts to play and is added to a linked list.  The last song is pointed to your new song.  If you listen for a while, you can go back 10 songs to one you were previously enjoying by pressing reverse and going back song by song.  Another reason this is a linked list is the new song is not added until you finish your current song, just like linked list.  They have data added to them at runtime.  
+Imagine you are listening to your music library on shuffle.  Each time you skip or finish a song, a new, random song starts to play and is added to a linked list.  The last song is pointed to your new song.  If you listen to multiple songs, you can go back a couple songs to one you were previously enjoying by pressing reverse and going back song by song.  All of the previous songs are still pointed to each other.  Another reason this is a linked list is the new song is not added until you finish your current song, just like linked list.  They have data added to them at runtime.  
 
-Here is an image example of a queue:
+Here is an image example of a linked list:
 
 ![image](https://user-images.githubusercontent.com/97404870/176754026-09319f32-78d1-4a97-bc70-e36ee7c36acf.png)
 

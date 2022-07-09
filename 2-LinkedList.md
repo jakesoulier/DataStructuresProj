@@ -12,13 +12,6 @@ Here is an image example of a linked list:
 
 ![image](https://user-images.githubusercontent.com/97404870/178087458-414074c7-791b-4057-b27e-dcc7448bc061.png)
 
-How do you use it in programming?  Specifically Python.
-
-| Action | Description | Python syntax |
-|---|---|---|
-| Enqueue  | Adding value to back of queue  |  queue.append(value) |  
-| Dequeue  | Removing first value of queue  | queue.pop()  |
-
 
 ## Effecientcy
 Linked list uses sequential access.  This is just a term that means data is accessed with some type of preset, ordered why of retrieving form.  Since linked list are accessed this way and are already linearly organized the big O effeciently is O(n).

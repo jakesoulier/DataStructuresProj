@@ -27,6 +27,8 @@ Deque, also called Double Ended Queue, is a type of Queue that allows of removal
 **deleteFront()**
 
 **deleteBack()**
+## Effeciency
+Queues are similar to linked list in their big O effeciency.  The data is not randomly accessed because it is organized sequentially.  This means the big O effecieny for searching and accessing certain data points is O(n) while the effeciency for adding or deleting values is O(1).
 
 ## Problem to Solve
 Write a class and call it Queue.  Have a method that creates an empty queue when the class is called.  Inside the class make 5 different functions with these specific names:

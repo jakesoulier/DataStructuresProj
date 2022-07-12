@@ -1,8 +1,8 @@
-# Linked List
+# Trees
 ## Introduction
-What is a Linked List?
+What are trees in a data structure and algorithmic definition?
 
-They are also called a one way ordered list.  That is exactly what they are, an ordered group of elements that have a connection to each value next in line.  Basically, it is a linear order set of elements that connect each other with pointers.
+Trees are a bit different from the past 2 topics that we have talked about. Instead of having the data organized in a linear matter like in queues and linked lists, trees use a hierarchcy data structure to organize its data.  There are many different types of trees, the main type we are going to focus on today are binary trees.
 ## Implementation
 Let's think of a real world example of a linked list.  This always helps me understand principles and see the importance of them.  Maybe you will start to see examples of linked lists in your day-to-day life!  Here's a real life example:
 

@@ -2,7 +2,7 @@
 Through this data stucture tutorial, there will be three main topics that are taught, explained, and has given examples that can be completed by the student to better learn the topic.
 
 **The main three are:**
-* Queues
+* [Queues](https://github.com/jakesoulier/DataStructuresProj/blob/main/1-Queues.md)
 * Linked Lists
 * Trees
 

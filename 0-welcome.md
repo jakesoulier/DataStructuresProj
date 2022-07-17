@@ -3,8 +3,8 @@ Through this data stucture tutorial, there will be three main topics that are ta
 
 **The main three are:**
 * [Queues](https://github.com/jakesoulier/DataStructuresProj/blob/main/1-Queues.md)
-* Linked Lists
-* Trees
+* [Linked Lists](https://github.com/jakesoulier/DataStructuresProj/blob/main/2-LinkedList.md)
+* [Trees](https://github.com/jakesoulier/DataStructuresProj/blob/main/3-Trees.md)
 
 Taught by:
 **Jake Soulier**

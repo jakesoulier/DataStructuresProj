@@ -16,7 +16,7 @@ Here is an image of a binary tree:
 
 
 ## Efficiency
-Linked list uses sequential access.  This is just a term that means data is accessed with some type of preset, ordered by retrieving form.  Since linked lists are accessed this way and are already linearly organized the big O efficiently is O(n).
+The reason trees are so often used is because of how efficient it can be.  The worst case scenerio Big O efficiency is O(n) but, if the tree is balanced the efficency is O(log n).
 
 
 ## Problem to Solve

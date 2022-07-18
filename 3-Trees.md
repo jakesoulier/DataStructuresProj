@@ -19,7 +19,7 @@ Here is an image of a binary tree:
 The reason trees are so often used is because of how efficient it can be.  The worst case scenerio Big O efficiency is O(n) but, if the tree is balanced the efficency is O(log n).
 
 ## Recursion
-Recursion, as you may know, is when a function calls itself.
+Recursion, as you may know, is when a function calls itself. Let us look at an example for a review.  One use if for factorials.  A factorial is defined as the product of an integer and all the integers below it.  So the factorial of 7 is 1 × 2 × 3 × 4 × 5 × 6 × 7.  That equals 5040.  Lets solve this same problem using recursion.
 ```
 def factorial(n):
     if n == 1:

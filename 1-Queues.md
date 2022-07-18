@@ -81,10 +81,8 @@ Do your best to complete this without looking at the solution.  When you are fin
 
 ## Links to other pages
 
-[Welcome Page Link](https://github.com/jakesoulier/DataStructuresProj/blob/main/0-welcome.md)
-
-[Linked Lists](https://github.com/jakesoulier/DataStructuresProj/blob/main/2-LinkedList.md)
-
-[Trees](https://github.com/jakesoulier/DataStructuresProj/blob/main/3-Trees.md)
+* [Welcome Page](https://github.com/jakesoulier/DataStructuresProj/blob/main/0-welcome.md)
+* [Linked Lists](https://github.com/jakesoulier/DataStructuresProj/blob/main/2-LinkedList.md)
+* [Trees](https://github.com/jakesoulier/DataStructuresProj/blob/main/3-Trees.md)
 
 

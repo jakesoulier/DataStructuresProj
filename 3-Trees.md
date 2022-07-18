@@ -18,6 +18,16 @@ Here is an image of a binary tree:
 ## Efficiency
 The reason trees are so often used is because of how efficient it can be.  The worst case scenerio Big O efficiency is O(n) but, if the tree is balanced the efficency is O(log n).
 
+## Recursion
+Recursion, as you may know, is when a function calls itself.
+def factorial(n):
+    if n == 1:
+       return n
+    else:
+       return (n * factorial(n-1))
+
+number = 7
+print(factorial(number))
 
 ## Problem to Solve
 

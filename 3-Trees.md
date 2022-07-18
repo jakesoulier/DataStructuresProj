@@ -47,6 +47,11 @@ The main task you need to complete:
 
 [Link to solution](https://github.com/jakesoulier/DataStructuresProj/blob/main/trees-solution.py)
 
+## Links to other pages
 
 [Welcome Page Link](https://github.com/jakesoulier/DataStructuresProj/blob/main/0-welcome.md)
+
+[Queues](https://github.com/jakesoulier/DataStructuresProj/blob/main/1-Queues.md)
+
+[Linked Lists](https://github.com/jakesoulier/DataStructuresProj/blob/main/2-LinkedList.md)
 

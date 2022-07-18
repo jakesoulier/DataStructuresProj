@@ -20,6 +20,7 @@ The reason trees are so often used is because of how efficient it can be.  The w
 
 ## Recursion
 Recursion, as you may know, is when a function calls itself.
+```
 def factorial(n):
     if n == 1:
        return n
@@ -28,7 +29,7 @@ def factorial(n):
 
 number = 7
 print(factorial(number))
-
+```
 ## Problem to Solve
 
 Use this code to start and write answers:

@@ -6,7 +6,7 @@ They are also called a one way ordered list.  That is exactly what they are, an 
 ## Implementation
 Let's think of a real-world example of a linked list.  This always helps me understand principles and see the importance of them.  Maybe you will start to see examples of linked lists in your day-to-day life!  Here's a real-life example:
 
-Imagine you are listening to your music library on shuffle.  Each time you skip or finish a song, a new, random song starts to play and is added to a linked list.  The last song points to your new song.  If you listen to multiple songs, you can go back a couple songs to one you were previously enjoying by pressing reverse and going back song by song.  All of the previous songs are still pointed to each other.  Another reason this is a linked list is the new song is not added until you finish your current song, just like a linked list.  They have data added to them at runtime.  
+Imagine you are listening to your music library on shuffle.  Each time you skip or finish a song, a new, random song starts to play and is added to a linked list.  The last song points to your new song.  If you listen to multiple songs, you can go back a couple songs to one you were previously enjoying by pressing reverse and going back song by song.  All the previous songs are still pointed to each other.  Another reason this is a linked list is the new song is not added until you finish your current song, just like a linked list.  They have data added to them at runtime.  
 
 Here is an image example of a linked list:
 

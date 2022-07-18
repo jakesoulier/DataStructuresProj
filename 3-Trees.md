@@ -23,18 +23,18 @@ The reason trees are so often used is because of how efficient it can be.  The w
 
 Use this code to start and write answers:
 
-[Link to starting code](https://github.com/jakesoulier/DataStructuresProj/blob/main/linkedLists.py)
+[Link to starting code](https://github.com/jakesoulier/DataStructuresProj/blob/main/trees.py)
 
-There are 3 main task you need to complete:
+The main task you need to complete:
 
-* Insert data into head of list
-* Insert data into tail of list
-* Insert data into list after another list element
+* Create BST
+* Add function to insert data
+* Add function to delete data given a certain value
 
 **Answer should output:**
 
 
-[Link to solution](https://github.com/jakesoulier/DataStructuresProj/blob/main/linkedList-solution.py)
+[Link to solution](https://github.com/jakesoulier/DataStructuresProj/blob/main/trees-solution.py)
 
 
 [Welcome Page Link](https://github.com/jakesoulier/DataStructuresProj/blob/main/0-welcome.md)

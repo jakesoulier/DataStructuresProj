@@ -37,7 +37,7 @@ There are 3 main task you need to complete:
 
 ## Links to other pages
 
-* [Welcome Page Link](https://github.com/jakesoulier/DataStructuresProj/blob/main/0-welcome.md)
+* [Welcome Page](https://github.com/jakesoulier/DataStructuresProj/blob/main/0-welcome.md)
 * [Queues](https://github.com/jakesoulier/DataStructuresProj/blob/main/1-Queues.md)
 * [Trees](https://github.com/jakesoulier/DataStructuresProj/blob/main/3-Trees.md)
 

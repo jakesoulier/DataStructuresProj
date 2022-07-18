@@ -72,9 +72,11 @@ print(result)
 Create a waitlist that can be added to and have people removable from the list.
 
 Download this code to get started:
+
 [Waitlist Problem](https://github.com/jakesoulier/DataStructuresProj/blob/main/queue-waitlist.py)
 
 Do your best to complete this without looking at the solution.  When you are finished, you are free to compare it to the solution here:
+
 [Waitlist Solution](https://github.com/jakesoulier/DataStructuresProj/blob/main/queue-waitlist-solution.py)
 
 [Welcome Page Link](https://github.com/jakesoulier/DataStructuresProj/blob/main/0-welcome.md)

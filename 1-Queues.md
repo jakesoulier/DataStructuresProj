@@ -1,9 +1,9 @@
 # Queues
 ## Introduction
 What is a Queue?
-A queue is form of data structure in programming.  It is a group of data elements where only the first part of the data can be accessed and new elements are adding at the back.  The order is FIFO or first in, first out.
+A queue is form of data structure in programming.  It is a group of data elements where only the first part of the data can be accessed, and new elements are adding at the back.  The order is FIFO or first in, first out.
 ## Implementation
-Can you think of any real world examples of a queue?  Let me give you one to get you started.  When you go to the sandwhich shop, you have to get in line to wait for your order.  You join at the back of the line.  That's where data is inserted for a queue.  Who gets served first?  That would be the first person in line.  When someone joins the line at the back, that is called enqueue.  When the person in the front is served and they leave the line, that is called dequeue.  They are the first out.  This is a fair and organized way and that is how it is used in a programming envirorment.
+Can you think of any real-world examples of a queue?  Let me give you one to get you started.  When you go to the sandwich shop, you have to get in line to wait for your order.  You join at the back of the line.  That's where data is inserted for a queue.  Who gets served first?  That would be the first person in line.  When someone joins the line at the back, that is called enqueue.  When the person in the front is served and they leave the line, that is called dequeue.  They are the first out.  This is a fair and organized way and that is how it is used in a programming environment.
 
 Here is an image example of a queue:
 
@@ -18,7 +18,7 @@ How do you use it in programming?  Specifically Python.
 
 
 ## Deque
-Deque, also called Double Ended Queue, is a type of Queue that allows of removal and insertion of elements can be done at the back or front of a collection of data.  This means it does not follow the first in first out rule.  Deque is often used more due to effeciency and preformance.  There are a couple of different main operations inside of Deque.  Here they are:
+Deque, also called Double Ended Queue, is a type of Queue that allows of removal and insertion of elements can be done at the back or front of a collection of data.  This means it does not follow the first in first out rule.  Deque is often used more due to efficiency and performance.  There are a couple of different main operations inside of Deque.  Here they are:
 
 **insertFront()**
 
@@ -28,7 +28,7 @@ Deque, also called Double Ended Queue, is a type of Queue that allows of removal
 
 **deleteBack()**
 ## Effeciency
-Queues are similar to linked list in their big O effeciency.  The data is not randomly accessed because it is organized sequentially.  This means the big O effecieny for searching and accessing certain data points is O(n) while the effeciency for adding or deleting values is O(1).
+Queues are similar to linked list in their big O efficiency.  The data is not randomly accessed because it is organized sequentially.  This means the big O efficiency for searching and accessing certain data points is O(n) while the efficiency for adding or deleting values is O(1).
 
 ## Problem to Solve
 Write a class and call it Queue.  Have a method that creates an empty queue when the class is called.  Inside the class make 5 different functions with these specific names:
